@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Almir Zulic
+- 👋 Hi, I’m Almir
 - 👀 I’m interested in Cloud computing, DevOps, Mobile, and Hardware programming (PLC, SCADA, Arduino)
 - 🌱 I’m currently learning Rust
 - 🔗 This is my personal website: https://almirzulic.com/
