@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Almir
 - 👀 I’m interested in Cloud computing, DevOps, Mobile, and Hardware programming (PLC, SCADA, Arduino)
-- 🌱 I’m currently learning Rust
+- 🌱 I’m currently learning London System and Semi-Slav defense
 - 🔗 This is my personal website: https://almirzulic.com/
 - 📫 How to reach me: almir@bind.ba
 
